@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="input_field" type="id" />
+    <item name="write_button" type="id" />
+    <item name="display_text" type="id" />
+    <item name="read_button" type="id" />
+    <item name="textView1" type="id" />
+    <item name="cb1" type="id" />
+    <item name="cb2" type="id" />
+    <item name="cb3" type="id" />
+    <item name="cb4" type="id" />
+    <item name="cb5" type="id" />
+    <item name="cb6" type="id" />
+    <item name="cb7" type="id" />
+    <item name="cb8" type="id" />
+    <item name="checkBox4" type="id" />
+    <item name="checkBox6" type="id" />
+    <item name="t1" type="id" />
+    <item name="textView5" type="id" />
+    <item name="textView7" type="id" />
+</resources>
